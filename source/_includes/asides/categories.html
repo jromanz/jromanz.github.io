@@ -1,0 +1,35 @@
+<script type="text/javascript">
+  jQuery.noConflict();
+</script>
+<section>
+  <h1>Categorias</h1>
+  <ul id="categorias">
+  {% assign lst = site.categories | sort%}
+  {% for category in lst %}
+    <li class="dropdown">
+      {{ category }} ({{ category[1].size }})
+      <div style="float:right;">
+        <a href="/{{site.category_dir}}/{{category[0]}}/atom.xml"><img src="/images/rss_10x10.png" alt=""></a>
+      </div>      
+      <ul id="expand">
+      {% for posts in category %}
+      {% for post in posts %}
+      {% if post.layout == "post" %}
+          <li id="item_side"><a href="{{ post.url }}">{{ post.title }}</a></li>
+      {% endif %}
+      {% endfor %}
+      {% endfor %}
+      </ul>
+    </li>
+  {% endfor %}
+  </ul> 
+</section>
+<script type="text/javascript">
+  $("li.dropdown").click(
+      function(){
+        $(this).children("ul").toggle();
+      }
+    );
+</script>
+
+

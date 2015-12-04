@@ -1,0 +1,26 @@
+// This File is imported last, and will override other styles in the cascade
+// Add styles here to make changes without digging in too much
+
+#categorias li {
+	cursor: pointer;
+    color: #3b5998;
+    text-decoration:none;
+}
+#recentpost li {
+	cursor: pointer;
+    color: #3b5998;
+    text-decoration:none;
+}
+#expand li {
+    color: #3b5998;
+    text-decoration:none;
+    padding: 5px 0px 5px 25px;
+}
+
+li.dropdown ul{
+	display: none;
+}
+
+#item_side{
+	border-bottom: none; 
+}
