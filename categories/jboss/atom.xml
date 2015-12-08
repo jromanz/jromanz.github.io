@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Jboss | Julio Román Blog]]></title>
+  <link href="http://jromanz.github.io/categories/jboss/atom.xml" rel="self"/>
+  <link href="http://jromanz.github.io/"/>
+  <updated>2015-12-08T10:30:46-05:00</updated>
+  <id>http://jromanz.github.io/</id>
+  <author>
+    <name><![CDATA[jromanz]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Tercer Post]]></title>
+    <link href="http://jromanz.github.io/2015/11/24/tercer-post/"/>
+    <updated>2015-11-24T07:19:56-05:00</updated>
+    <id>http://jromanz.github.io/2015/11/24/tercer-post</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Spring | Julio Román Blog]]></title>
+  <link href="http://jromanz.github.io/categories/spring/atom.xml" rel="self"/>
+  <link href="http://jromanz.github.io/"/>
+  <updated>2015-12-08T10:30:46-05:00</updated>
+  <id>http://jromanz.github.io/</id>
+  <author>
+    <name><![CDATA[jromanz]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Decimo Cuarto Post]]></title>
+    <link href="http://jromanz.github.io/2015/11/24/decimo-cuarto-post/"/>
+    <updated>2015-11-24T07:21:16-05:00</updated>
+    <id>http://jromanz.github.io/2015/11/24/decimo-cuarto-post</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Septimo Post]]></title>
+    <link href="http://jromanz.github.io/2015/11/24/septimo-post/"/>
+    <updated>2015-11-24T07:20:17-05:00</updated>
+    <id>http://jromanz.github.io/2015/11/24/septimo-post</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Primer Post]]></title>
+    <link href="http://jromanz.github.io/2015/11/24/primer-post/"/>
+    <updated>2015-11-24T06:56:14-05:00</updated>
+    <id>http://jromanz.github.io/2015/11/24/primer-post</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>

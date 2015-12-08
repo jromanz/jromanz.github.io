@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Julio Román Blog]]></title>
+  <link href="http://jromanz.github.io/atom.xml" rel="self"/>
+  <link href="http://jromanz.github.io/"/>
+  <updated>2015-12-08T10:30:46-05:00</updated>
+  <id>http://jromanz.github.io/</id>
+  <author>
+    <name><![CDATA[jromanz]]></name>
+    
+  </author>
+  <generator uri="http://opensource.com">OpenSource</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Decimosexto Post]]></title>
+    <link href="http://jromanz.github.io/2015/11/26/decimosexto-post/"/>
+    <updated>2015-11-26T05:22:28-05:00</updated>
+    <id>http://jromanz.github.io/2015/11/26/decimosexto-post</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Decimo Quinto Post]]></title>
+    <link href="http://jromanz.github.io/2015/11/24/decimo-quinto-post/"/>
+    <updated>2015-11-24T08:29:31-05:00</updated>
+    <id>http://jromanz.github.io/2015/11/24/decimo-quinto-post</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Decimo Cuarto Post]]></title>
+    <link href="http://jromanz.github.io/2015/11/24/decimo-cuarto-post/"/>
+    <updated>2015-11-24T07:21:16-05:00</updated>
+    <id>http://jromanz.github.io/2015/11/24/decimo-cuarto-post</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Decimo Tercer Post]]></title>
+    <link href="http://jromanz.github.io/2015/11/24/decimo-tercer-post/"/>
+    <updated>2015-11-24T07:21:10-05:00</updated>
+    <id>http://jromanz.github.io/2015/11/24/decimo-tercer-post</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Duodecimo Post]]></title>
+    <link href="http://jromanz.github.io/2015/11/24/duodecimo-post/"/>
+    <updated>2015-11-24T07:20:46-05:00</updated>
+    <id>http://jromanz.github.io/2015/11/24/duodecimo-post</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Undecimo Post]]></title>
+    <link href="http://jromanz.github.io/2015/11/24/undecimo-post/"/>
+    <updated>2015-11-24T07:20:39-05:00</updated>
+    <id>http://jromanz.github.io/2015/11/24/undecimo-post</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Decimo Post]]></title>
+    <link href="http://jromanz.github.io/2015/11/24/decimo-post/"/>
+    <updated>2015-11-24T07:20:33-05:00</updated>
+    <id>http://jromanz.github.io/2015/11/24/decimo-post</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Noveno Post]]></title>
+    <link href="http://jromanz.github.io/2015/11/24/noveno-post/"/>
+    <updated>2015-11-24T07:20:28-05:00</updated>
+    <id>http://jromanz.github.io/2015/11/24/noveno-post</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Octavo Post]]></title>
+    <link href="http://jromanz.github.io/2015/11/24/octavo-post/"/>
+    <updated>2015-11-24T07:20:23-05:00</updated>
+    <id>http://jromanz.github.io/2015/11/24/octavo-post</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Septimo Post]]></title>
+    <link href="http://jromanz.github.io/2015/11/24/septimo-post/"/>
+    <updated>2015-11-24T07:20:17-05:00</updated>
+    <id>http://jromanz.github.io/2015/11/24/septimo-post</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Sexto Post]]></title>
+    <link href="http://jromanz.github.io/2015/11/24/sexto-post/"/>
+    <updated>2015-11-24T07:20:12-05:00</updated>
+    <id>http://jromanz.github.io/2015/11/24/sexto-post</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Quinto Post]]></title>
+    <link href="http://jromanz.github.io/2015/11/24/quinto-post/"/>
+    <updated>2015-11-24T07:20:07-05:00</updated>
+    <id>http://jromanz.github.io/2015/11/24/quinto-post</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Cuarto Post]]></title>
+    <link href="http://jromanz.github.io/2015/11/24/cuarto-post/"/>
+    <updated>2015-11-24T07:20:02-05:00</updated>
+    <id>http://jromanz.github.io/2015/11/24/cuarto-post</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Tercer Post]]></title>
+    <link href="http://jromanz.github.io/2015/11/24/tercer-post/"/>
+    <updated>2015-11-24T07:19:56-05:00</updated>
+    <id>http://jromanz.github.io/2015/11/24/tercer-post</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Segundo Post]]></title>
+    <link href="http://jromanz.github.io/2015/11/24/segundo-post/"/>
+    <updated>2015-11-24T06:59:56-05:00</updated>
+    <id>http://jromanz.github.io/2015/11/24/segundo-post</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Primer Post]]></title>
+    <link href="http://jromanz.github.io/2015/11/24/primer-post/"/>
+    <updated>2015-11-24T06:56:14-05:00</updated>
+    <id>http://jromanz.github.io/2015/11/24/primer-post</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
